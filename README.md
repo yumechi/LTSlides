@@ -8,6 +8,6 @@ GitPitch用なので、各ブランチにLT資料を作る形になっていま�
 
 |DATE|TITLE|SLIDE PAGE|
 |:-:|:-:|:-:|
-||||
-|2017/10/|||
+|2017/10/14|LTをしようというLT|[https://gitpitch.com/yumechi/LTSlides/ws_56]|
+|2017/10/17|号外：競技プログラミングは役に立たない？|[https://gitpitch.com/yumechi/LTSlides/tech_meetup-LT_1]|
 |2017/10/31|Linterをね、やっていく||
