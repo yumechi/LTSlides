@@ -91,9 +91,15 @@
 
 ---
 
-## やりました
+@title[やりました]
 
-![gif](https://github.com/yumechi/slack_emoji_downloader/blob/master/demo/slackemojidl.gif)
+#### slack emoji downloader
+
+![slack emoji downloader](https://github.com/yumechi/slack_emoji_downloader/blob/master/demo/slackemojidl.gif)
+
+---
+
+## スライドができてない！
 
 
 
