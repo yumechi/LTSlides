@@ -17,4 +17,5 @@ GitPitch用なので、各ブランチにLT資料を作る形になっていま�
 | 2018/07/01 | 2本目: 小説と世界 | [https://gitpitch.com/yumechi/LTSlides/kizokukai-LT-1-2](https://gitpitch.com/yumechi/LTSlides/kizokukai-LT-1-2) |
 | 2018/07/01 | 3本目: SNSアカウントとマネジメント | [https://gitpitch.com/yumechi/LTSlides/kizokukai-LT-1-3](https://gitpitch.com/yumechi/LTSlides/kizokukai-LT-1-3) |
 | 2018/09/18 | Pycon JPで転職してみた人のホンネ(speacker deckへのリンクです) | [https://speakerdeck.com/yumechi/pycon-jpdezhuan-zhi-sitemitaren-falsehonne](https://speakerdeck.com/yumechi/pycon-jpdezhuan-zhi-sitemitaren-falsehonne) |
+| 2018/10/19 | 【初心者歓迎】サポーターズCOLABビギナーズLT会VOL.1 「前に立ってみよう」 | [https://gitpitch.com/yumechi/LTSlides/colab-beginner-lt-1](https://gitpitch.com/yumechi/LTSlides/colab-beginner-lt-1) |
 
