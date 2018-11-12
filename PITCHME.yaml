@@ -1,5 +1,4 @@
 theme : moon
-theme-override: PITCHME.css
 slide-number: true
 footnote :  "@__yumechi"
 highlight : monokai-sublime
