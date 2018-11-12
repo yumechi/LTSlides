@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
  
 .reveal {
-    font-family: 'Noto Sans Japanese', sans-serif;
+    font-family: 'Noto Sans Japanese', sans-serif !important;
 }
