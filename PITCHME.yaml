@@ -1,1 +1,5 @@
-theme: jekyll-theme-midnight
+theme : moon
+slide-number: true
+footnote :  "@__yumechi #spzlt #spzcolab"
+highlight : monokai-sublime
+transition : fade
