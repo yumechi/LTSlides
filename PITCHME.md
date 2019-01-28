@@ -13,18 +13,18 @@
 
 ## PyConJP 2018
 ## title: Pycon JPで転職してみた人のホンネ
-## https://speakerdeck.com/yumechi/pycon-jpdezhuan-zhi-sitemitaren-falsehonne
+#### https://speakerdeck.com/yumechi/pycon-jpdezhuan-zhi-sitemitaren-falsehonne
 
 ---
 
 #### >>> yumechi['qualifications']
 #### [{'date': '2013-11', 'name': 'FE'}, {'date': '2016-11', 'name': 'AP'}, {'date': '2016-06', 'name': 'Silver SE 8'}]
 
-----
+---
 
 ## 本題に戻る。。。
 
-----
+---
 
 ## 今日どのような目的でいらっしゃいましたか？
 
@@ -32,7 +32,7 @@
 * ベンダ系の資格を受けようか悩んでる人？
 * 資格試験は意味がないことを確信に変えたい人？
 
-----
+---
 
 ## まとめ
 
@@ -43,7 +43,7 @@
 * その他、IT系に関わらない資格試験は必要に応じて…
     * 不動産システムをやるなら宅建とか、会計知識があったほうが良いのであれば当然有利
 
-----
+---
 
 # しかし
 ## 周りに言われたから受けるのではなく、自発的に計画的にキャリアと照らし合わせて勉強し、資格試験を受けるだけでなく今後のエンジニア人生のための知識をつけるのが一番大事
