@@ -7,9 +7,15 @@
 ```python
 $ python
 Python 2.7.15 (default, Jan 12 2019, 21:07:57)
->>> yumechi
-{'programming': ['Python', 'Ruby', 'Java', 'Objective-C', 'C++'], 'enginner carrer': 'the third year', 'type': 'serverside engineer', 'hobby': ['video games', 'Competitive programming', 'creative activity']}
+>>> import pprint
+>>> pp = pprint.PrettyPrinter(indent=4)
+>> pp.pprint(yumechi)
+{   'enginner carrer': 'the third year',
+    'hobby': ['video games', 'Competitive programming', 'creative activity'],
+    'programming': ['Python', 'Ruby', 'Java', 'Objective-C', 'C++'],
+    'type': 'serverside engineer'}
 ```
+
 ---
 
 ### PyConJP 2018
@@ -19,8 +25,10 @@ Python 2.7.15 (default, Jan 12 2019, 21:07:57)
 ---
 
 ```
->>> yumechi['qualifications']
-[{'date': '2013-11', 'name': 'FE'}, {'date': '2016-11', 'name': 'AP'}, {'date': '2016-06', 'name': 'Silver SE 8'}]
+>>> pp.pprint(yumechi['qualifications'])
+[   {   'date': '2013-11', 'name': 'FE'},
+    {   'date': '2016-11', 'name': 'AP'},
+    {   'date': '2016-06', 'name': 'Silver SE 8'}]
 ```
 
 ---
