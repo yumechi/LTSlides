@@ -1,5 +1,11 @@
 # LTSlides
-LT Slides For GitPitch
+
+GitPitchのサービス終了や、slideshipのサービス終了に伴い、多くのリンクが切れているので終わりにしました。
+
+資料の移管先は未定ですが、そのうち公開してみられる形にします。
+
+
+## LT Slides For GitPitch
 
 LTスライド公開用リポジトリ。問題ないものしか上げません。（問題ないものしかそもそも公開できないでしょ）
 GitPitch用なので、各ブランチにLT資料を作る形になっています。
