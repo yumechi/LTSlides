@@ -1,14 +1,39 @@
 # LTSlides
 
-GitPitchのサービス終了や、slideshipのサービス終了に伴い、多くのリンクが切れているので終わりにしました。
+このリポジトリ自体はLTスライドを公開していたものになりますが、実質はアーカイブ専用となっています。
+最新のものについては [speakerdeck](https://speakerdeck.com/yumechi) に移行しています。
 
-資料の移管先は未定ですが、そのうち公開してみられる形にします。
+## セットアップ
 
+podman を使っているので、動作する状況にしてください。
+GitHub CodeSpaces で動作させる場合は Ubuntu 22.04 以降を利用してください。
+(.devcontainer 配下の設定を参考にしてください)
+
+## ファイルの取得と pdf 変換
+### ファイルの取得
+
+下記コマンドを実行すると、各ブランチの PITCHME.md ファイルを取得し、 `{branch_name}/{branch_name}.md` という名前で保存します。
+
+```bash
+bash branch_copy.sh
+```
+
+ただし画像ファイルについては元々利用していなかったこともあり拾い上げていません。
+
+### pdf 変換
+
+```bash
+bash convert_with_podman.sh
+```
+
+podman と公開されている marp-cli の docker イメージを使って pdf 変換を行います。
+GitHub の CodeSpaces で実行できることを確認済みです。
 
 ## LT Slides For GitPitch
 
 LTスライド公開用リポジトリ。問題ないものしか上げません。（問題ないものしかそもそも公開できないでしょ）
-GitPitch用なので、各ブランチにLT資料を作る形になっています。
+GitPitch用なので、各ブランチにLT資料を作っています。
+現在は pdf 変換のためすべての資料を main ブランチに持ってきてきます。
 
 過去のもの
 
