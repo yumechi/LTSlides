@@ -32,5 +32,6 @@ git checkout master
 
 # 取得したファイルを master に追加
 cp -r branches/* .
+rm -rf branches
 git add .
 git commit -m "Add PITCHME.md files from all branches"
