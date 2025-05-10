@@ -6,7 +6,6 @@ FROM mcr.microsoft.com/vscode/devcontainers/base:0-ubuntu-${VARIANT}
 RUN apt-get update && apt-get install -y \
     curl \
     git \
-    podman \
     && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 # 作業ディレクトリを設定
