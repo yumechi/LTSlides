@@ -35,5 +35,8 @@ find "$workspace_dir" -type f -name "*.md" | while read -r markdown_file; do
     fi
 done
 
-# 実行権限を付与するには以下を実行してください
-# chmod +x convert_with_podman.sh
+# README.pdf を除外
+find "$workspace_dir" -type f -name "README.pdf" | while read -r pdf_file; do
+    echo "Removing $pdf_file..."
+    rm -f "$pdf_file"
+done
