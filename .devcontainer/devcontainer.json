@@ -4,8 +4,15 @@
     "dockerfile": "Dockerfile"
   },
 	"privileged": true,
-  "settings": {},
-  "extensions": [],
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": [
+        "GitHub.copilot-chat",
+        "ms-azuretools.vscode-docker"
+      ]
+    }
+  },
   "postCreateCommand": "sudo apt-get update && sudo apt-get install -y podman && sudo podman network create --driver bridge mynetwork",
   "remoteUser": "vscode"
 }
